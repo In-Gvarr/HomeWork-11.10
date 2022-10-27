@@ -4,6 +4,7 @@ public class Homework {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Task 1");
         int number = scanner.nextInt();
 
